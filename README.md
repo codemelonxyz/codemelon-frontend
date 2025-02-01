@@ -1,2 +1,3 @@
 # codemelon-frontend
-Front end repo of codemelon
+
+Main front end repo of codemelon
